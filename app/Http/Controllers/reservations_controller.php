@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 use App\reservations;
 use App\tribune;
 use Carbon\Carbon;
-use \PhpOffice\PhpSpreadsheet\IOFactory;
+use \PhpOffice\PhpSpreadsheet\IOFactory;  //composer require phpoffice/phpspreadsheet
 use App\Http\Requests\seat_validation;
 
 class reservations_controller extends Controller
