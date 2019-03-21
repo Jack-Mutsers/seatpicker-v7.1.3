@@ -6,7 +6,7 @@
         <h1> new tribune </h1>
     </div>
     <div class="row">
-        <a href="/download/example" id="download" role="button">download example</a>
+        <a href="/download/example" id="download" role="button"><button>download example</button></a>
     </div>
     <br /><br />
     @if (session('status'))
