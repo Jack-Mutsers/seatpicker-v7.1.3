@@ -1,0 +1,31 @@
+.change{
+    float: right;
+    background-color: burlywood;
+    width: 32px;
+    height: 33px;
+}
+
+.delete{
+    float: right;
+    background-color: red;
+    width: 32px;
+    height: 33px;
+}
+
+.table .row{
+    background-color: beige;
+    height: 35px;
+    line-height: 32px;
+    font-size: 32px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.685), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 5px;
+}
+
+.change, .delete{
+    margin: 1px;
+}
+
+.row{
+    margin-top: 10px;
+}
