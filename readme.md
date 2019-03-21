@@ -1,3 +1,25 @@
+<h1>installation instructions</h1>
+<br><br>
+<ol>
+    <li>download the zip file</li>
+    <li>unpack the zip file</li>
+    <li>make sure composer is installed</li>
+    <li>open the command prompt</li>
+    <li>go to the unzipped project folder</li>
+    <li>type: composer install</li>
+    <li>create an empty database</li>
+    <li>type: php artisan key:generate</li>
+    <li>keep the command prompt open and go to the unzipped folder in explorer</li>
+    <li>change the name of .env.example to .env</li>
+    <li>open the .env</li>
+    <li>change the database settings to your newly created database</li>
+    <li>go back to the command prompt</li>
+    <li>type: php artisan migrate</li>
+    <li>type: php artisan serve</li>
+    <li>open your browser</li>
+    <li>go to: localhost:8000</li>
+</ol>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
