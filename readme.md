@@ -1,5 +1,4 @@
 <h1>installation instructions</h1>
-<br><br>
 <ol>
     <li>download the zip file</li>
     <li>unpack the zip file</li>
