@@ -1,8 +1,13 @@
+<h1>requirements</h1>
+<ul>
+    <li>php version 7.1.3 or higher</li>
+    <li>composer</li>
+</ul>
+
 <h1>installation instructions</h1>
 <ol>
     <li>download the zip file</li>
     <li>unpack the zip file</li>
-    <li>make sure composer is installed</li>
     <li>open the command prompt</li>
     <li>go to the unzipped project folder</li>
     <li><b>type:</b> composer install</li>
